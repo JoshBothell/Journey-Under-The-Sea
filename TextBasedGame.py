@@ -32,10 +32,51 @@ def page1():
                                                                            
                  BY: R.A. MONTGOMERY
                  Adapted By: Hayden Whitney and Josh Bothell
+
+                        Tip: To best view ascii art step back from the screen and look at it from a distance.
                 """)
     input("...")
     page2()
 def page2():
+    print("""
+                                                                                              `.`-/d
+                                                                                             :/sNmdm
+                                                                                            sNNmMyMm
+                                                                                           +hmNMyomy
+                                                                                          `o-- `   +
+                                                                                          -        +
+                                                                                                   +
+                                                                                                `-oo
+                                                                                                `+od
+                                                                                                 ++y
+                                                                                                -s+o
+                                                                                              .yysod
+....                        `+o+:.`.....-.`. `.`..`odm-`                                      -+.hdh
+    ..`                     hs.so```..`-...-`...`./+/o `-.                                    .o`dNy
+       ```                  o//:--:..-.-/yo-.-..`.---s`   `..                   `--       ./+.`+`yNy
+          .`                hy: `      . .+o+/.``   -/--`    .``                +`.-      s:-:/..` +
+            `.`             o:.:s-           `:o+::-`--./.     `.`             `s`.:      :`--`.   +
+              .-            s .-:-               `.-/:hy- `.     /ho.           +-`-   `.`/:.:-:---o
+                :`      .```y```                     ./ym/ -./ho+hhh-..`        s:./.-.:oyh++o:/-..+
+         -`  `   -`    `/+s+/:o/.                        `/y: hMN`     .-.   ://y/:++:+s/omydNdo:::+
+         ``ds`    -     :``/dd.-/`                         :: `+-        `-. `+mmMmymmmdyddmdho/-.-+
+          dd/      :    .. -m/-:/.                         ss-sh+....       ./sss+soodhy+/+/:/yhhhdo
+          o-.     `//``s+y++myhmhs+`..-/.                 -+. :dNdo+y      .-:+d.   .d- -/.   /yys++
+           :/  ```.-.  `.o+os+//     `.`-.../:ds         `-.   `yNs/+o-  :yNdydhdNN+-o  +:y`  -+.s++
+    `-----+:--.`           -s.              /+--        /d/      +do+oh:.NmmdmhsMMMNy+  +/.s+-/+o:o+
+    +mmNNMMMMMNNNmdhyosoo++sssoooooooossshdhdds  .s:.-.:sh:-...``-+y:o/s.smdmmNsMMMm++:/oo/so+/o+so+
+    -ooyhmNmddyho+-.```             ``....:ydNN:: +:       ``..`   `........--------...-.`.-.```   +
+          `:hNNmNmNho-..-+/`  `-/+- `o+yoohNmm/:  /+`          `-                                  +
+           `ydhhohNMMMNmNMNdohdNMMhoshMMNmMd:    `sNysshysyohhysyo+++//::-..---::-.-..--:o/---...--+
+...``...`........--/+ymMNmmdddddmMNNNmho/:+--.    yMMMNmMNNmNMmmmNMMNmNNNmNmNmdmdddNNNNmmmNNmdddmmd+
+                        ``.------..` `.....   -.`./MMMNNNdNmNmmNmNNNMmdmmmmmmNNNddmNNNmmmmNNNNmmmmh+
+    .:o++oohoyshysoyyhhysyo:/+ooo+o++/o+/+:-  `//+sNMNNMMMNNNNdmmdmNmNmmdNNNNmNNmmNNNNMNmmMMNMMMNNy+
+          `:/:-`.:////yy+ooyssohhhsyhso++:-..` ``     .-.::+oo+/:ooohhhmmmmNNmdmddhyoo:+ooos+//oy/-+
+     ...-..`   `...-:-:/://+++/::--`...-.``` ```-.--.....-...::/::.----.```.:---/.`-/://--/oss+y///+
+-`..``     `.-.:--....--.....:-..-.-//--/-:/::-.......-..```.. `.-::.  `--.-...:-::-:-.--::----`-:.+
+                                            .....--..                                `..-...---..-.+
+                                                                                                   +
+                """)
     print("""
     You are an underwater explorer. You are leaving
 to explore the deepest oceans. You must find
@@ -86,6 +127,95 @@ turn to page 5.
         page5()
 def page4():
     print("""
+       `o-                               :+   +-                                       :`           
+         +:                              -+  `+`                                    `-oo/----.``    
+          s`                             -s` -s:                                    :sdyyshhs/:.  `.
+          .s                             /y. -:.                                    sMMhsso+:.   `-`
+           s.                            :y` +o                                   /mMMmmdh.     .:  
+           .o-                          `//  o/                                .+dMMMNhsso/`  `-:.` 
+            -s                          `+:  -/`                             ../NMMMMNhhs/+/.``-`   
+             h+                         .//   /.                             -odMMMMMMmyyyddsyho:`..
+             ym-                        `//  `y-                             -mMMMMMMmhosyyyddsh/-. 
+             yNd//:-                    `:-  `+`                             sMMMMMMNmy:/ooddydy:-  
+             oMmyys+:`                  `/`  `::                            `NMMMMMMMdyssyhysshy:   
+            ++MMNNdsoo.                 `/.  `-+                           `:MMMMMMMMmysyhsyss+-    
+.`         `yyNMMMNhos-`                ./-   -/`                         :+mMMMMMMMNhdmmso+-`    `.
+-/         .hymMMMMmh+.                 -+`   +/-                         -+MMMMMMMMd+yo+o:      .-`
+:h.        `yymMMMMNmo/:-.``            .+-   `/                        `.+dMMMMMMMN+s:./.     `:.  
+:ss         osdMMMMMMyoosss/`           -s.   `-.                       .sNMMMNMMMM/ :.:`     ./.   
+-oh.     ```oshMMMMMMds+/+:-            /+`   `:/`                   `./sNMMMMMMMNy/+:/`     -:`    
+-sy/     +ssdddMMMMMMMs:                +/     ::-`                  `+NMMMMMMMMNyoyy+: `  `:-  `   
+/hyh:+osymNNmNNMMMMMMMs-```            `//     .::.                   :MMMMMMMMM/.//./`   ./` `.  ..
+-+:ys/sdNNNmmNMMMMMMMMdso-`             o/     :+/                    :NNMMMMMMh `-`-. ` `-` --  --`
+-++sh.:os/-ymdMMMMMMMMMd+              -o.     .o/                    /MNMMMMMN:``` :   ..  :-  --..
+-///ssy+`  `oydNMMMMMMMd-              :y:     `oo.              `   -yNNMMMMMy`` `:.` -:`.:.  :-.+ 
+-oooddd:     odNmmMMMMMMm+/-.```       :o:     .-:.             o-  +MMMMMMMMM/`.//:`.-- -/-  /-`/` 
+:yhhdmd.     `hhydMMMMMMMmhhdhs/-`    `:o-     ++//            /+`.-NMMMMMMMMh.`+. ..//`//`  --`/.  
+:syshm+     . `yhmMMMMMMMNso+o:.`     `/+`     -//-           `o./+mMMMMMMNyo.`:`  `oo`.`   :-./.   
++dhhhN:     :.`/hNMMMMMMMNm/:-.       `+::     .---          `osoymMMMMMMd:.--+  `.:s`.    -:.:     
+/hhhmN+      o` `yMMMMMMMMm/   `       :o.     `+ss          -+/ssNMMMMMd`..-/. ```s/     ./::      
+:ysyyydo     -:  -sMMMMMMMNy   `      -oo`     `--/.        `o-+ooMMMMMMh+hss` `/`+y.    `oo.       
+/ysyyyym:    .o`  /NMMMMMMMN-  -:  `  ::/       -//.   .   `/. .sdMMNMNhhyyy/``o:++o     /:o        
+:yyhyyysy-    -+.-/mNMMMMMMho` `+     -+-       `:-.  --   /-  /yNMMdhshdhyo-`++/+s:    +-o-        
++mhyyssmmm     y++yNNMMMMMMmm+  +` `-`:/-        -/+` +`  :+` -/mMMNs+hddhNs`+//os+    -oy/         
+/mNhssdhym: `` o`sdNmMMMMMMMMd+.-y `+//:.`` ` ` `:+o/+-.`-s+--.+mMMo+ddddNs+++h/o+-   `/so`         
+:sdmyosyss+  ` :-+hmMMMMMMMMMMNyhmy+syos:-.` `.-.:oo/-..-so..-+hMMMsyy+sdm:/hsooso    +/..       .+-
+/hhdddhdyhd` ` --:smNMMMMMMMMMMdhdmhh+::+-`.``-::-o-oy++oy:.-/mNMMdshysyd/+yodhoy`   /s         -ss:
+/ydddmmhssh-   `s`oyNMMMMMMMMNMNddmmd/:+s+oo++oo+so::+::hy/::omMMMmdhyhmooysyyys/    /:       `:+oy:
+:ydddmmdysd-    +::hmMMMMMMMMMMNdhmNdo::dhsosyyhdNd/ .ydhs+oomNMMmdhydmmhdysyhho`   .+     ` `oshhs-
+:hdhyyddhyd-    -+/sdMMMMMMMMMMMNdmMy: smmmhdhyysyds--yNmsyhdNMMNhhdmmmyyhosshs`    s.      `+oodys-
+/dsshhhddddo    `h.sdMMMMMMMMMMMNmNNs.+dsssosssydNmy+/oNdmNNMMMMddmNNNddddhddo-``` -/   ` `.ohhmho+-
+/ydmmdhdNNdd`   `+./dMMMMMMMMMMMMNMh--+hsoo+oo++ymy+/`/hdNMMMMMNddmmNNdymydmhy``.` s`  ```/hyyyyhss:
+/hdsyhsoyddd` `.:so-ymNMMMMMMMMMMMN- :oddoos/++sydho-`-hNMMMMMMmmNmddmmmdhhyo.``  //   ` +yhhhhhs+- 
+/hyo+o+ossdm:`..-ydoohmMMMMMMMMMMMy`  /odos+/::sdohyo..+NMNMMMMNNMmmdmdyhyoo:    .+-  ``-sdsyydo.   
+`sysyysssdhsd/`--/sdhmNMMMMMMMMMMMd.`/hhdh//s/+ydodhy+.:NMMMMMNNNmmmNdo:+o+/     +/. ` -hddssys  .:-
+ .hhhhdyyhsmyh+`:oymmyNMMMMMMMMMMN: `sNmNmyhho+yhmdmm/ `dMMMMMMMNmNdhy++o/+ `   `o/  ``oohyoos` :/.`
+  -ddyhyhhhNhsm/syddmmyNNMMMMMMMMm:` sMNmMmdddmMydmNN/` -NMMMMMMMNmhdyhsoo-    `+-: `.o+sodss. :o:+:
+   /NdmdhhhhNdddshhmmNmmMMMMMMMMMy```hMMNNdhmyNNmmNMMh-  sMMMMMMMMdNmNNdd/   ``-o`...oo+yysy. /ooy- 
+   .dshsyshyhydhyyshmNNNMMMMMMMMm.  -NMMMMMNNdMmMNhyMN/` `mMMMMMMNNmNNmNm.`````++-`-oooyddh- .s+o-  
+  ` shyooooyhdhoohhNNNNMMMMMMMMMy  `yMMMMMMMdNNMmNmoNMh.  yMMMMMMmMMMNNNy` ``.+/-..ohoso:s:``s++-   
+``` .yhdhhhdhmdhssmdmNNMMMMMMMms+  /MMMMMMhyso+++hMMMMm+..yMMMMMMMNMMMMds`.``s-.:`+hs+sy+:  +s//    
+`````ydyyyhhmddhoodNmMMMMMMMMm:-  .yMMMMMM:.----`+MMMMy/.-.mMMMMMMMMNNNho:``-y...+syyo+o.``+yho     
+`   `.dyshhNmmdhhhdNmMMMMMMMNo`   hMMMMMMm/ymmmh.`MMMMNh`  syMMMMMMNNNhsy:-./++./sh+sso.  +-.:      
+  ````oyoohNmyddmdddmNMMMMMMd   .:mMMMMMMh-omdhs  dMMMMd.  .hMMMMMMMMmhho+ooyy.:sss/+s.``/:         
+    ```ddhhdMNmNNmNmNmMMMMMMm   :hMMMMMMMo`o+/-d  +MMMMM/  ./yMMMMMMMNdmysooo:.ssyooo: .o:          
+..-    /hhmNNNNNNNNNNMNMMMmyh. ..osyNMMNmo/yh:oho+/dmNhoo-.`.+oyNMNMNNMdhos-o`+oh+o++` /y           
+  `-` `-NhddmMmmNMNMNNNNMy`     ````-/+::yddhydmdso/.o-  --.    :mNNNNMddos:o+yhsoso```h-           
+   .::/+dysyhNdhNNMMNNMMd`  .```      ` ``:::o/::-`  `     .  `` -NMNMNhhhdydho/oyy`  -s            
+   `.so:sdsyhmmMmNMMNMNN.               //`` //` `-.              +MMMMhsdhhdhs+od`   o.            
+   ` `+..hyyyhmNMMNMMMmm`                `:-:---:``               -yMMMNhysdho+oy/   .o  `          
+.:---:/s.:dshyhmMmNMMMNy`                  /dyss.`                `hMMNhdysmssmdo    h` `           
+-o++/++ss:yddssyNmMMMMMMo                .os.`.:s/                +MMMNNmsydyyys  ` .o.             
+.-:+/---hyomdyhhddNMMMMmMd/             .:y-    +y-`           `+mMMMMdNh/yysyh/ `  s.`` `          
+        -s+sMhddhMMNMMMNhyNNhs/:-.`````:++..--:. /+.       `:+hNMNyNMMMNhhhhyyds/::/s.-`.`          
+.:       o+hmhhhmmNNNMMMhs/+yNMMNddhyydmms  `-`   dhhyyooymNNNmhsoydMMMNyyhs+yho+:-h` `             
+ o-      `s.s/h/syhMMNMNms/o+o//yhmMNMMMN-` `` `  -NMMMMMmNyysso/+hNNNNmNdy+os:--:/o                
+ `o`      :://ssyhNMMNNMMNss/yo+o/:/sdNMo          yNMhsyhy:oys/+omNdmmoshy:-+`.-:y-. `             
+  .o       yo+/NdmmMMNNNNNoo+ssshy::/yhd.`         `hdyyyhddyyy+odmdmmydyhoyy/ ``s/.--.             
+./:y/-..`.-o-:sMNmmdMMNNMNd+o+dhhs/-+yy/`  `   `    -dhyhhhNhyssdddhmm-//ms/y:``.h`--:.`            
++hyymo:/+/-`s+shmy/+hyhmmNNdhshhy+::+ys    ``        +shyhhMdddysssy++:-:hhh+./-:+` ``.`..          
+-yoosd`.-``.syods`-:sshhhdmNNNmhdsssdm-     ````     `sdmNyhNNmso++my::::hoys `:h` `   `..``        
+ `os+os```.-shsh` `.++o+/+hNmNhyhsodMh.`.` `.`-``..```-NNMhmmNNdyyhdhyo-oyy+-/.::+.      ``..       
+   :+-/:``./`+/s+s`./:``./+dmy++ooyNN.     `.::`       +mNNmmmmddymy:/s+ssy/`.o/ `::`      ``.`     
+  `.-/`y.`...`////s- /` ``.+dysysydmo        .`        `ymNmNmdddydd+/hds+/--`o-/.`./.`.     `.`    
+ ..  o::o  `  .+--so.--  :+ydhdsoyNd`                   .mNMNNdmNmy++hhhdo:.-// :.: `:sy:`    ``..` 
+``  ..o`h```.-`-+:+/o..:.+odyhd/ydm+               `     /sddmhhNmh//yhmdy..:y.  +-:`-yy:..:`   `..`
+  ``  //s: -:...s+::++.s`/o+sysodmh.                      +sosyodNmsoyydy+/.o/-  :+/``/-hyso-     ` 
+ `. `  y.o:::-/:-+o--+h:/ooosy/ddm:                       :+/o+-ymmdhdosy:/s-.:..++ys/s-ddds+       
+`` ``  :/:h::/:--:o/+hd/hssshosNmy  .`                    --//+/ddNmdd+ss/+h`.:+/-.ydyN+:-+hh:`     
+  ``    yodsss+++/:hdNyyysyhysdmN:  `.           -.`     .  :++ymdhyy+ :/+o/: :h//.-:ydydh+-:o/.    
+ .` `  .sddNdyyssoyddmymsddhydmhy`   -  `+`    `:s+-        `:ommdyod+.`:/s:/: +/y/`   ``    `s/-   
+`     .:-dmNyoyhhhddmddmmmdyhmmm-`.  .`        `:::          .oyhosyhs+`.o+/-o`.ho:.           ::.  
+  `  ::.:++:m+o-+oy+myNNMNNmmNNs  :   .        `  .    `      /o::.yoo/:`o://:: :o.:.           .-.`
+`` `++./o/.-:d-::o-:/hydNMMMNmm.  .`  `               `    `` .//-o//++/::::/:--.+/`:. `      `  `-`
+  `+/-:+/...+/yoo:..:hymmNNNmh+    `  `.              -  `.. ` .:o/.`++o+-:::/:/.:y/.o.`-   ` ```  `
+ `o/./++:.-/-.:hs`..+NhddNNydy`    .   `---           .  :      :/:-``++o/:::/-:/`oy:-/..:. ``:---` 
+`o+-/+/:`-//`.:-y+/sosdsddNyd/     -`  omdNs         -  ``     .----- -+oo.::-::---oo.:/:-/-``-::--.
+:/-/++:`/-o`-`.+/m+:-++yydhmy      `- `odyhy+        ` ``     .- .:.-- /+o:---./:` /y/:/+:-::.`.---.
+.-/+//`:-s`:`:-/-:y.-:.dhhyN/       - ./s:/+s`      `--`      -   ---`.`+oo.--..-` `/s:-/:--+:.`:::.
+./++:.--s.-  `///-do:`:oy:yo/.      .` --:.`-:     ..`       `-   `.--  -+oo`-` ./- /o/:://:-+---::.
+-/+:-/:o--`   `   -d.`-:.ss-...     `- .  -  `    ``       `.-`    .-..  :+o/``  //:-/:-:-+:/:+/-/:.
+.+/:++//`-        -/+`. `/:  `-      :           `-      .`         --`   oos.    /:/:/.//:/:/://:--
                 """)
 def page5():
     page4()
@@ -111,7 +241,8 @@ _______________________________________
 the bubbles, turn to page 8.
 
     If you decide to investigate the grotto
-with the round entrance, turn to page 9.
+with the round entrance, turn to page 9.
+
                     """)
     choicex = choice(8, 9)
     if choicex == "8":
@@ -131,7 +262,7 @@ examine the ledge by the canyon.
     Suddenly, a school of bright yellow angel fish
 dart by, almost brushing you. What made them
 move so fast? Are they being chased?
-Then you see it. The Seeker is in the grips of a
+    Then you see it. The Seeker is in the grips of a
 huge sea monster. It is similar to a squid, but it is
 enormous. The Seeker is just a toy in its long,
 powerful tentacles. You seek shelter behind a rock
@@ -148,5 +279,36 @@ the Seeker, turn to page 10.
 hope that rescuers will see
 you, turn to page 12.
                 """)
-   
+    choicex = choice(10, 12)
+    if choicex == "10":
+        page10()
+    if choicex == "12":
+        page12()
+def page7():
+    print("""
+
+                """)
+def page8():
+    print(""" 
+    Carefully, you maneuver the Seeker between
+the walls of the canyon.
+    On the floor of the canyon, you discover a large
+round hole out of which flow the large bubbles.
+The Seeker is equipped with scientific equipment
+to analyze the bubbles. It also has sonar equipment
+that can measure the depth of any hole.
+______________________________________
+
+    If you decide to analyze the bubbles,
+turn to page 11.
+
+    If you decide to take sonar readings,
+turn to page 15.
+                """)
+    choicex = choice(11, 15)
+    if choicex == "11":
+        page11()
+    if choicex == "15":
+        page15()
+
 page1()
